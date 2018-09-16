@@ -1,5 +1,5 @@
-# Respoitorio para la resolucion del examen de ingreso para Mercado Libre de nivel 2
-## Hecha por Martin Heredia
+# Respositorio para la resolucion del examen de ingreso para Mercado Libre de nivel 2
+## Hecho por Martin Heredia
 
 Para lograr una resolución fueron necesarias tomar ciertas asunciones. A continuación se detallan las mismas:
 - **Alineación inicial de los plantetas**: Se asume que inicialmente (en el día 0) los 3 planetas están alineados entre sí, y además alineados con el sol.
