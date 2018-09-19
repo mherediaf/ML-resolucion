@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS day_event;
+
+CREATE TABLE day_event (
+  day INTEGER PRIMARY KEY,
+  event TEXT NOT NULL
+);
